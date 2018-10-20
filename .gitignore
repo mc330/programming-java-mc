@@ -1,0 +1,13 @@
+.idea/*
+*.iml
+workspace.xml
+target
+generatorConfig.xml
+jdbc.properties
+/ellabook_config/
+.project
+.settings
+.classpath
+mc330.iml
+
+
